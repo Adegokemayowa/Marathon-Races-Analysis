@@ -22,7 +22,7 @@ In this project, I explored and analyzed marathon race data to uncover insights 
 
 ## 📁 Project Files
 
-- The dataset was goteen from kaggle. Click [here](https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running/discussion/420633) to view the full dataset
+- The dataset was gotten from kaggle. Click [here](https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running/discussion/420633) to view the full dataset
 
 ## 📚 Learnings
 
